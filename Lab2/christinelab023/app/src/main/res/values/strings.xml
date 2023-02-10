@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">christinelab02</string>
+    <string name="playSpaceLaser">Play Sound</string>
+    <string name="button2">Change Text</string>
+    <string name="light_mode">Light Mode</string>
+
+</resources>
